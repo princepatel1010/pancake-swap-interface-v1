@@ -13,7 +13,7 @@ const InputPanel = styled.div`
   display: flex;
   flex-flow: column nowrap;
   position: relative;
-  border-radius: 1.25rem;
+  border-radius: 1.5rem;
   background-color: ${({ theme }) => theme.colors.invertedContrast};
   z-index: 1;
   width: 100%;
